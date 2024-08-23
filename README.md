@@ -1,4 +1,4 @@
-# Fake News Detection Project
+c# Fake News Detection Project
 
 This project aims to detect and analyze fake news using various natural language processing (NLP) techniques and machine learning algorithms. The goal is to build a model that can accurately classify news articles as real or fake.
 
