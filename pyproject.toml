@@ -1,0 +1,14 @@
+[tool.poetry]
+name = "fakenews detectar"
+version = "0.1.0"
+description = "project"
+authors = ["y"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.11"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
